@@ -1,0 +1,217 @@
+.Sep1 {
+    box-shadow: 0 0 4px 0;
+}
+.logo {
+    float: left;
+    margin-left: 20px;
+}
+.list li {
+    float: right;
+    display: inline;
+    list-style: none;
+    padding: 10px;
+    margin-right: 20px;
+    text-transform: capitalize;
+}
+h2 {
+    text-align: center;
+    line-height: 4px;
+    font-size: 40px;
+}
+.line1 {
+    padding-top: 30px;
+}
+p {
+    text-align: center;
+    line-height: 6px;
+
+}
+.pline1 {
+    padding-top: 15px;
+}
+.centre {
+    margin-left: 500px;
+    margin-right: auto;
+    margin-top: -8px;
+}
+.nike {
+    display: flex;
+    margin-right: 450px;
+    margin-top: 10px;
+}
+.allcentre {
+    text-align: center;
+}
+.para2 {
+    margin-left: 450px;
+    margin-right: 450px;
+    line-height: 20px;
+    text-align: justify;
+}
+.fblogo {
+    margin-left: 5px;
+}
+.button1 {
+    border: none;
+}
+h4 {
+    margin-left: -230px;
+}
+.para5 {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.three li {
+   margin-left: 450px; 
+   margin-right: 450px;
+}
+.para20 {
+    text-align: center;
+    margin-left: 430px;
+    margin-right: 450px;
+}   
+.para21 {
+    text-align: center;
+    margin-left: 390px;
+    margin-right: 450px;
+}
+.para22 {
+    text-align: center;
+    margin-left: 175px;
+    margin-right: 450px;   
+}
+.para23 {
+    text-align: center;
+    margin-left: 75px;
+    margin-right: 450px;
+    margin-top: 0px;
+}
+.button10 {
+    height: 40px;
+    width: 200px;
+    border: 1px solid lightgray;
+    background-color: white;
+}
+.fa-brands {
+    padding: 10px;
+}
+.button11 {
+    height: 40px;
+    width: 200px;
+    border: 1px solid lightgray;
+    background-color: white;
+}
+.buttonsss {
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.Tags {
+    margin-left: -195px;
+}
+.hr {
+    align-items: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 20px;
+}
+.circle {
+    border-radius: 50%;
+}
+.mika {
+    margin-left: 450px;
+    margin-right: 400px;
+    display: inline;
+    text-align: center;
+    font-size: 13px;
+}
+.next {
+    text-align: center;
+}
+.image50 {
+    margin-left: -60px;
+}
+.threepics1 {
+    display: flex;
+    margin-left: 250px;
+}
+.threepics2 {
+    display: flex;
+    margin-left: 250px;
+}
+.newsletter {
+border: 1px solid black;
+border-top: 5px solid black;
+width: 450px;
+margin-left: 400px;
+
+}
+.relevent {
+    margin-top: 10px;
+    line-height: 20px;
+}
+.signup1 {
+    margin-top: 30px;
+}
+.misc {
+    background-color: black;
+    color: white;
+    height: 40px;
+
+}
+.misc1 {
+    height: 38px;
+    margin-left: 60px;
+    width: 250px;
+    margin-bottom: 30px;
+}
+.lastist {
+    background-color: black;
+    
+}
+.lastist li {
+    color: white;
+    list-style: none;
+    display: inline;
+    padding: 12px;
+}
+.akhri1 {
+    color: white;
+    text-align: center;
+    margin-left: 5px;
+}
+.akhri2 {
+    color: white;
+    text-align: center;
+    line-height: 25px;
+
+}
+.t1 {
+    color: white;
+    text-decoration: underline; 
+}
+.l1 {
+    color: white;
+    text-decoration: underline;
+    
+}
+.r1 {
+    color: white;
+    text-decoration: underline;
+}
+.rss {
+display:flex;
+padding: 10px;
+text-decoration: underline;
+justify-content: center;
+color: white;
+list-style: none;
+}
+.nnnnn {
+    color: white;
+    
+}
+.nnnnn1 {
+    color: white;
+    margin-bottom: 20px;
+}
